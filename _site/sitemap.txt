@@ -1,0 +1,9 @@
+
+http://kp2222.github.com/atom.xml
+http://kp2222.github.com/sitemap.txt
+http://kp2222.github.com/index.html
+http://kp2222.github.com/categories.html
+http://kp2222.github.com/archive.html
+http://kp2222.github.com/tags.html
+http://kp2222.github.com/pages.html
+http://kp2222.github.com/about.html
